@@ -1,0 +1,1 @@
+# clipinator-cli
